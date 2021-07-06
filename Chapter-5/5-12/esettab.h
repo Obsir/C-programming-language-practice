@@ -1,0 +1,1 @@
+void esettab(int argc, char *argv[], char *tab);

@@ -1,0 +1,1 @@
+int tabpos(int pos, char *tab);
